@@ -1,7 +1,7 @@
 # LinguisticsTool
-
+<br/><br/>
 ## دریافت برنامه
-<br/><br/><br/><br/>
+
 برای دریافت برنامه روی آخرین نسخه‌ی منتشر شده کلیک کنید.
 ![Image](res/download_1.png)
 <br/><br/><br/><br/>
